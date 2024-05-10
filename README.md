@@ -1,6 +1,7 @@
 
 # Ex-1-NFA-to-DFA
 # Exercise 1 - Conversion of Non-Deterministic Finite Automaton (NFA) To Deterministic Finite Automaton (DFA)
+Date: 16:02:2024
 
 # Date: 16:02:2024
 ## Aim
